@@ -1,0 +1,5 @@
+{
+  "name": "Geração 4 - Restaurante & Takeaway",
+  "description": "Authentic Portuguese and Mediterranean cuisine in Senhora da Hora. Homemade dishes, takeaway, and catering services.",
+  "requestFramePermissions": ["geolocation"]
+}
